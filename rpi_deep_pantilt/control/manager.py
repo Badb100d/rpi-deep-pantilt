@@ -1,7 +1,7 @@
 import logging
 from multiprocessing import Value, Process, Manager
 
-import pantilthat as pth
+import pantilthat_waveshare as pth
 import signal
 import sys
 

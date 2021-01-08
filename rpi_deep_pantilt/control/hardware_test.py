@@ -2,7 +2,7 @@ import logging
 import math
 import time
 
-import pantilthat
+import pantilthat_waveshare as pantilthat
 from picamera import PiCamera
 
 
